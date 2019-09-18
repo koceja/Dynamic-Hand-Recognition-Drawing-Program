@@ -1,4 +1,4 @@
-# Dynamic-Hand-Recognition-Drawing-Program
+# Dynamic Hand Recognition Drawing Program
 A program that uses machine learning to detect hands from a streaming input from a camera and uses the location of the hand to draw on a whiteboard.
 
 <img src="docs/running.gif" width="50%">
