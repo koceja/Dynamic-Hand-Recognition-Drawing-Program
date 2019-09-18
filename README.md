@@ -1,11 +1,11 @@
 # Dynamic Hand Recognition Drawing Program
 A program that uses machine learning to detect hands from a streaming input from a camera and uses the location of the hand to draw on a whiteboard.
 
-<img src="docs/running.gif" width="50%">
+<img src="docs/running.gif" width="100%">
 
 There is a solution file for visual studio (the IDE used for this project). The python scripts are also in the repository.
 
-<h2>Getting Started</h2>
+<h2>Training the Convolutional Neural Network</h2>
 
 This project was just a way for me to become more comfortable with machine learning, specifically with TensorFlow.
 All testing was done on the Anaconda environment(python 3.7).
