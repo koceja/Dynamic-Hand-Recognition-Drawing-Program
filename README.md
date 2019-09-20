@@ -41,7 +41,7 @@ I created a "whiteboard" in the same size of the webcam's input (will correspond
 <h4>Two Hands/Depth Detection</h4>
 <img src="docs/runningTwoHands.gif" width="100%">
 
-The program can work with more than one detection, and will try to detect and label all hands in the video. I used a sort of depth detection that used the identification of the hand and the size of the image of the hand to label the biggest hand in each frame. From there, I made the biggest hand the drawer.
+The program can work with more than one detection and will try to detect and label all hands in the video. I used a sort of depth detection that used the identification of the hand and the size of the image of the hand to label the biggest hand in each frame. From there, I made the biggest hand the drawer.
 
 <h4>Fist Detection</h4>
 <img src="docs/runningFist.gif" width="100%">
